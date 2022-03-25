@@ -6,6 +6,8 @@ This is a collection of pre-built jython modules that can be added to Ignition t
 2. [bottle](https://github.com/bottlepy/bottle#bottle-python-web-framework)
 3. [paho.mqtt](https://github.com/eclipse/paho.mqtt.python#usage-and-api)
 4. [sparkblug_b](https://github.com/eclipse/tahu/blob/master/sparkplug_b/stand_alone_examples/python/example_simple.py) 
+5. [boto3 1.17 (depracated)](https://pypi.org/project/boto3/1.17.112/)
+
 
 ## Install modules for Ignition
 ```
