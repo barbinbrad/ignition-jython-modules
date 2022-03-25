@@ -1,3 +1,12 @@
+## What is this?
+
+This is a collection of pre-built jython modules that can be added to Ignition to support easy import of the following libraries:
+
+1. [requests](https://docs.python-requests.org/en/latest/)
+2. [bottle](https://github.com/bottlepy/bottle#bottle-python-web-framework)
+3. [paho.mqtt](https://github.com/eclipse/paho.mqtt.python#usage-and-api)
+4. [sparkblug_b](https://github.com/eclipse/tahu/blob/master/sparkplug_b/stand_alone_examples/python/example_simple.py) 
+
 ## Install modules for Ignition
 ```
 git clone https://github.com/barbinbrad/ignition-jython-modules
