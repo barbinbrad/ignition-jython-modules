@@ -18,7 +18,7 @@ rsync -r --exclude '.git' ignition-jython-modules/. /usr/local/ignition/user-lib
 
 1. Install jython
 2. Clone the repo of the module to be installed
-3. Run `jython install setup.py` in the cloned repo
+3. Run `jython setup.py install` in the cloned repo
 4. Copy the results from `jython/Lib/site-packages` to this repo
 5. Open an MR
 6. Close Ignition and run the scripts above
